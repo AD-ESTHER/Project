@@ -1,0 +1,36 @@
+html{
+    scroll-behavior: smooth;
+}
+#parent-1{
+    height: 480px;
+}
+
+    
+
+#image{
+    height:100%;
+    object-fit: cover;
+    filter: brightness(0.2);
+    
+}
+   
+
+
+
+#text{
+    margin-top: 135px;
+}
+#icon{
+    height: 180px;
+}
+#column:hover{
+    transform: translateX(5px);
+
+
+}
+#column{
+    transition: 0.8s;
+}
+#FAQ{
+    color: navy;
+}
